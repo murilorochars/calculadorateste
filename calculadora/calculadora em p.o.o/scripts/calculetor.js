@@ -1,0 +1,4 @@
+window.calculetor = new CalcController;
+
+
+
